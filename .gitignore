@@ -1,0 +1,11 @@
+*.pyc
+
+# Packaging
+*.egg-info/
+
+# Tests
+.tox/
+
+# Environments
+.venv/
+
