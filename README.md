@@ -1,5 +1,7 @@
 # Factory manager
 
+[![PyPI](https://img.shields.io/pypi/v/factory-manager)](https://python.org/pypi/factory-manager)
+
 `factory-manager` is a python package to create objects with their dependencies
 from descriptions in the form of a dictionary.
 
